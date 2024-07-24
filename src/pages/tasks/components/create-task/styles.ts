@@ -9,12 +9,12 @@ export const SearchInput = styled(VTextField)(({ theme }) => ({
 
   '& .css-h4os0j': {
     borderRadius: '8px',
-    height: '3rem',
+    height: '2rem',
   },
 
   '& .css-1x5jdmq': {
     borderRadius: '8px',
-    height: '3rem',
+    height: '2rem',
   },
 
   '& .css-4xkgy-MuiInputBase-root-MuiOutlinedInput-root': {
